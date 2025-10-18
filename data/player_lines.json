@@ -1,0 +1,32 @@
+[
+  {
+    "player_id": "justin-jefferson",
+    "player_name": "Justin Jefferson",
+    "team": "MIN",
+    "market": "Receiving Yards",
+    "line_value": 88.5,
+    "sportsbook": "FanDuel",
+    "odds": -115,
+    "last_updated": "2024-08-30T12:00:00"
+  },
+  {
+    "player_id": "patrick-mahomes",
+    "player_name": "Patrick Mahomes",
+    "team": "KC",
+    "market": "Passing Touchdowns",
+    "line_value": 2.5,
+    "sportsbook": "DraftKings",
+    "odds": 105,
+    "last_updated": "2024-08-30T12:00:00"
+  },
+  {
+    "player_id": "bijan-robinson",
+    "player_name": "Bijan Robinson",
+    "team": "ATL",
+    "market": "Rushing Yards",
+    "line_value": 71.5,
+    "sportsbook": "Caesars",
+    "odds": -110,
+    "last_updated": "2024-08-30T12:00:00"
+  }
+]
