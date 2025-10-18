@@ -1,0 +1,41 @@
+[
+  {
+    "player_id": "justin-jefferson",
+    "player_name": "Justin Jefferson",
+    "team": "MIN",
+    "stats": {
+      "projected_value": 104.2,
+      "usage_rate": 33.4,
+      "opponent_pass_rank": 22,
+      "recent_form": 0.82,
+      "injury_risk": 0.05
+    },
+    "last_updated": "2024-08-30T11:30:00"
+  },
+  {
+    "player_id": "patrick-mahomes",
+    "player_name": "Patrick Mahomes",
+    "team": "KC",
+    "stats": {
+      "projected_value": 2.9,
+      "usage_rate": 7.5,
+      "opponent_pass_rank": 18,
+      "recent_form": 0.76,
+      "injury_risk": 0.02
+    },
+    "last_updated": "2024-08-30T11:30:00"
+  },
+  {
+    "player_id": "bijan-robinson",
+    "player_name": "Bijan Robinson",
+    "team": "ATL",
+    "stats": {
+      "projected_value": 84.6,
+      "usage_rate": 58.1,
+      "opponent_pass_rank": 10,
+      "recent_form": 0.71,
+      "injury_risk": 0.08
+    },
+    "last_updated": "2024-08-30T11:30:00"
+  }
+]
